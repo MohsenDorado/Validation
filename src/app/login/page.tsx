@@ -67,7 +67,7 @@ const LoginPage = () => {
         Login Here
       </button>
       <Link className="underline text-blue-600" href="/signup">
-        Don't Have Account?
+     Dont Have Account?
       </Link>
     </div>
   );
